@@ -13,7 +13,7 @@ This project uses SQL (MySQL) to explore and analyze a global suicide dataset. I
 2. `total_suicides_by_year.sql` - Total suicides by year
 3. `suicides_by_age_group.sql` - Total suicides by age group
 4. `total_suicides_by_country.sql` - Total suicides by country
-5. `gdp_vs_suicide_rate.sql` - Trend between GDP per capita and sucide rate
+5. `gdp_vs_suicide_rate.sql` - Trend between GDP per capita and suicide rate
 6. `top_10_countries.sql` - Top 10 countries with highest number of suicides
 7. `suicide_rate_per_100k_by_country.sql` - Suicide rate per 100k people by country
 8. `male_vs_female_suicides.sql` - Male vs female suicides
